@@ -1,2 +1,2 @@
-# Algorithm_project_class_1
-This project is about Algorithm and Logic I class
+# Algorithm_Project_Class_I
+### This project is about Algorithm and Logic I class
